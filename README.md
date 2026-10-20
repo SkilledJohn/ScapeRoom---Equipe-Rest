@@ -13,8 +13,8 @@ java -cp target/classes br.edu.entregas.Main
 ```
 
 ## Acesso de demonstração
-- Usuário: `*****`
-- Senha: `********`
+- Usuário: `admin`
+- Senha: `12345678`
 
 ## Modelo
 Cada mercadoria possui exatamente um endereço de entrega.
